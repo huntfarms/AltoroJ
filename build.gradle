@@ -1,8 +1,7 @@
-
 apply plugin: 'war'
 
 webAppDirName = 'WebContent'
-sourceCompatibility = "1.7"; 
+sourceCompatibility = "1.7";
 targetCompatibility = "1.7";
 
 repositories {
@@ -21,7 +20,7 @@ sourceSets {
 }
 
 dependencies {
-	compile \
+	api \
 		fileTree(dir: "${webAppDirName}/WEB-INF/lib", include: '*.jar'),
 		'commons-codec:commons-codec:1.6',
 		'commons-lang:commons-lang:2.5',
