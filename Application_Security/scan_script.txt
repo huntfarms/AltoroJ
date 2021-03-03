@@ -1,2 +1,2 @@
-sc 
+sc #OUT#
 rpt "Findings by Type" pdf-summary #OUT#/scan_findings.pdf
