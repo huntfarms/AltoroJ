@@ -1,2 +1,2 @@
-sc #OUT#
+sc #OUT#/assessment.ozasmt
 rpt "Findings by Type" pdf-summary #OUT#/scan_findings.pdf
