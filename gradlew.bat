@@ -12,12 +12,12 @@
 @rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 @rem See the License for the specific language governing permissions and
 @rem limitations under the License.
-@rem   
+@rem
 
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
-@rem  Gradle startup script for Windows
+@rem  Gradle startup script for Windows   
 @rem
 @rem ##########################################################################
 
